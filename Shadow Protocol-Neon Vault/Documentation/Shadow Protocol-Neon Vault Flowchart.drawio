@@ -1,6 +1,6 @@
-<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.6.4 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" modified="2024-11-29T17:32:11.186Z" etag="KCvD4BRQB07rciizrtPO" version="24.6.4" type="device">
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="VmHKmfUE9KVC_jt5b50s">
-    <mxGraphModel dx="2261" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3614" dy="1198" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -424,38 +424,220 @@
           <mxGeometry x="1261" y="572.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d6J_IraQt0iToFYRzMnh-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="d6J_IraQt0iToFYRzMnh-7" target="d6J_IraQt0iToFYRzMnh-9" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="571" y="3090" />
+              <mxPoint x="-370" y="3090" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="d6J_IraQt0iToFYRzMnh-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="d6J_IraQt0iToFYRzMnh-7" target="d6J_IraQt0iToFYRzMnh-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="d6J_IraQt0iToFYRzMnh-7" value="From this stage forward, the entirety of the game will depend solely on the gearset you have selected" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="466" y="2970" width="210" height="90" as="geometry" />
+        <mxCell id="d6J_IraQt0iToFYRzMnh-7" value="From this stage forward, the entirety of the game will depend solely on the gearset you have selected" style="whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
+          <mxGeometry x="465" y="2970" width="210" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="d6J_IraQt0iToFYRzMnh-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="d6J_IraQt0iToFYRzMnh-9" target="d6J_IraQt0iToFYRzMnh-13" edge="1">
+        <mxCell id="3CZu82u7-v9dNgUdE9eK-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="d6J_IraQt0iToFYRzMnh-9" target="3CZu82u7-v9dNgUdE9eK-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="d6J_IraQt0iToFYRzMnh-9" value="Gearset 1" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="d6J_IraQt0iToFYRzMnh-9" value="Gearset 1" style="whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
           <mxGeometry x="-430" y="3110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="d6J_IraQt0iToFYRzMnh-11" value="Gearset 1" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1101" y="3120" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="d6J_IraQt0iToFYRzMnh-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="d6J_IraQt0iToFYRzMnh-13" edge="1">
+        <mxCell id="3CZu82u7-v9dNgUdE9eK-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d6J_IraQt0iToFYRzMnh-11" target="3CZu82u7-v9dNgUdE9eK-72">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-630" y="3430" as="targetPoint" />
+            <mxPoint x="1160.9999999999995" y="3260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="d6J_IraQt0iToFYRzMnh-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="d6J_IraQt0iToFYRzMnh-13" edge="1">
+        <mxCell id="d6J_IraQt0iToFYRzMnh-11" value="Gearset 1" style="whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
+          <mxGeometry x="1101" y="3120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d6J_IraQt0iToFYRzMnh-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="d6J_IraQt0iToFYRzMnh-13" edge="1" target="3CZu82u7-v9dNgUdE9eK-25">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-50" y="3430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="d6J_IraQt0iToFYRzMnh-13" value="Start by gate:&lt;div&gt;1- Gate 1&lt;/div&gt;&lt;div&gt;2 - Gate 2&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-450" y="3220" width="160" height="110" as="geometry" />
+        <mxCell id="3CZu82u7-v9dNgUdE9eK-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="d6J_IraQt0iToFYRzMnh-13" target="3CZu82u7-v9dNgUdE9eK-39">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="d6J_IraQt0iToFYRzMnh-18" value="OUTPUT&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="-620" y="3440" width="120" height="60" as="geometry" />
+        <mxCell id="d6J_IraQt0iToFYRzMnh-13" value="Start by gate:&lt;div&gt;1- Gate 1&lt;/div&gt;&lt;div&gt;2 - Gate 2&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="-450" y="3310" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="3CZu82u7-v9dNgUdE9eK-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3CZu82u7-v9dNgUdE9eK-1" target="3CZu82u7-v9dNgUdE9eK-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3CZu82u7-v9dNgUdE9eK-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3CZu82u7-v9dNgUdE9eK-1" target="3CZu82u7-v9dNgUdE9eK-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3CZu82u7-v9dNgUdE9eK-1" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;M&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;any chambers, chamber 1 and 2 are fillers while chamber 3 has a beast with one of needed components inside&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-905" y="3610" width="330" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="3CZu82u7-v9dNgUdE9eK-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3CZu82u7-v9dNgUdE9eK-2" target="3CZu82u7-v9dNgUdE9eK-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3CZu82u7-v9dNgUdE9eK-2" value="OUTPUT&lt;br&gt;&quot;You died&quot;&lt;div&gt;and how the beast killed you depending on choices&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="-1245" y="3690" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3CZu82u7-v9dNgUdE9eK-4" value="Mistake when killing beast" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1065" y="3667" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3CZu82u7-v9dNgUdE9eK-5" value="Success killing beast" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-735" y="3840" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3CZu82u7-v9dNgUdE9eK-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3CZu82u7-v9dNgUdE9eK-6" target="3CZu82u7-v9dNgUdE9eK-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3CZu82u7-v9dNgUdE9eK-6" value="&lt;div&gt;OUTPUT&lt;/div&gt;Move onto next gate" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="-800" y="3890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3CZu82u7-v9dNgUdE9eK-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3CZu82u7-v9dNgUdE9eK-8" target="3CZu82u7-v9dNgUdE9eK-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3CZu82u7-v9dNgUdE9eK-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3CZu82u7-v9dNgUdE9eK-8" target="3CZu82u7-v9dNgUdE9eK-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3CZu82u7-v9dNgUdE9eK-8" value="Able to open gate?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-813.75" y="4000" width="147.5" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="3CZu82u7-v9dNgUdE9eK-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3CZu82u7-v9dNgUdE9eK-10" target="3CZu82u7-v9dNgUdE9eK-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3CZu82u7-v9dNgUdE9eK-10" value="OUTPOUT&lt;br&gt;Gate is open, enter and look for microchip to end the game" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="-827" y="4150" width="175" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="3CZu82u7-v9dNgUdE9eK-13" value="Good End Game" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-799.5" y="4290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3CZu82u7-v9dNgUdE9eK-15" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-809.5" y="4110" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3CZu82u7-v9dNgUdE9eK-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3CZu82u7-v9dNgUdE9eK-16" target="3CZu82u7-v9dNgUdE9eK-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3CZu82u7-v9dNgUdE9eK-16" value="OUTPUT&lt;br&gt;&quot;You were apprehended!&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="-1045" y="4025" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3CZu82u7-v9dNgUdE9eK-18" value="Arrested End Game" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-1245" y="4025" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3CZu82u7-v9dNgUdE9eK-20" value="D&lt;span style=&quot;background-color: initial;&quot;&gt;eath End Game&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-1470" y="3700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3CZu82u7-v9dNgUdE9eK-22" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-883.75" y="4050" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3CZu82u7-v9dNgUdE9eK-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3CZu82u7-v9dNgUdE9eK-25" target="3CZu82u7-v9dNgUdE9eK-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3CZu82u7-v9dNgUdE9eK-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3CZu82u7-v9dNgUdE9eK-25" target="3CZu82u7-v9dNgUdE9eK-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3CZu82u7-v9dNgUdE9eK-25" value="Able to open gate?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-101.25" y="3445" width="147.5" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="3CZu82u7-v9dNgUdE9eK-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3CZu82u7-v9dNgUdE9eK-27" target="3CZu82u7-v9dNgUdE9eK-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3CZu82u7-v9dNgUdE9eK-27" value="OUTPOUT&lt;br&gt;Gate is open, enter and look for microchip to go next gate" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="3607" width="175" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="3CZu82u7-v9dNgUdE9eK-29" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-72.5" y="3565" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3CZu82u7-v9dNgUdE9eK-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3CZu82u7-v9dNgUdE9eK-31" target="3CZu82u7-v9dNgUdE9eK-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3CZu82u7-v9dNgUdE9eK-31" value="OUTPUT&lt;br&gt;&quot;You were apprehended!&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="90" y="3470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3CZu82u7-v9dNgUdE9eK-32" value="Arrested End Game" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="286" y="3470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3CZu82u7-v9dNgUdE9eK-33" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="3465" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3CZu82u7-v9dNgUdE9eK-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="3CZu82u7-v9dNgUdE9eK-34" target="3CZu82u7-v9dNgUdE9eK-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3CZu82u7-v9dNgUdE9eK-34" value="&lt;div&gt;OUTPUT&lt;/div&gt;Numpad pass wrong" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="-1050" y="3440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3CZu82u7-v9dNgUdE9eK-37" value="Numpad wrong" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-880" y="3430" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3CZu82u7-v9dNgUdE9eK-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="3CZu82u7-v9dNgUdE9eK-39" target="3CZu82u7-v9dNgUdE9eK-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3CZu82u7-v9dNgUdE9eK-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3CZu82u7-v9dNgUdE9eK-39" target="3CZu82u7-v9dNgUdE9eK-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3CZu82u7-v9dNgUdE9eK-39" value="Numpad" style="rhombus;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+          <mxGeometry x="-790" y="3430" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3CZu82u7-v9dNgUdE9eK-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3CZu82u7-v9dNgUdE9eK-44" target="d6J_IraQt0iToFYRzMnh-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3CZu82u7-v9dNgUdE9eK-44" value="CHECKPOINT" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-430" y="3200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3CZu82u7-v9dNgUdE9eK-47" value="Numpad right" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-720" y="3510" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3CZu82u7-v9dNgUdE9eK-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3CZu82u7-v9dNgUdE9eK-50" target="3CZu82u7-v9dNgUdE9eK-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3CZu82u7-v9dNgUdE9eK-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3CZu82u7-v9dNgUdE9eK-50" target="3CZu82u7-v9dNgUdE9eK-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3CZu82u7-v9dNgUdE9eK-50" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;M&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;any chambers, chamber 1 and 2 are fillers while chamber 3 has a beast with one of needed components inside&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-177.5" y="3940" width="330" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="3CZu82u7-v9dNgUdE9eK-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3CZu82u7-v9dNgUdE9eK-52" target="3CZu82u7-v9dNgUdE9eK-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3CZu82u7-v9dNgUdE9eK-52" value="OUTPUT&lt;br&gt;&quot;You died&quot;&lt;div&gt;and how the beast killed you depending on choices&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="249.5" y="4020" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3CZu82u7-v9dNgUdE9eK-53" value="Mistake when killing beast" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="98" y="4000" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3CZu82u7-v9dNgUdE9eK-54" value="Success killing beast" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2" y="4170" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3CZu82u7-v9dNgUdE9eK-55" value="D&lt;span style=&quot;background-color: initial;&quot;&gt;eath End Game&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="529" y="4030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3CZu82u7-v9dNgUdE9eK-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="3CZu82u7-v9dNgUdE9eK-57" target="3CZu82u7-v9dNgUdE9eK-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3CZu82u7-v9dNgUdE9eK-57" value="&lt;div&gt;OUTPUT&lt;/div&gt;Numpad pass wrong" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="258" y="3765" width="153" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3CZu82u7-v9dNgUdE9eK-58" value="Numpad wrong" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="43" y="3800" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3CZu82u7-v9dNgUdE9eK-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3CZu82u7-v9dNgUdE9eK-61" target="3CZu82u7-v9dNgUdE9eK-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3CZu82u7-v9dNgUdE9eK-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3CZu82u7-v9dNgUdE9eK-61" target="3CZu82u7-v9dNgUdE9eK-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3CZu82u7-v9dNgUdE9eK-61" value="Numpad" style="rhombus;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+          <mxGeometry x="-62.5" y="3760" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3CZu82u7-v9dNgUdE9eK-62" value="Numpad right" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-128" y="3830" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3CZu82u7-v9dNgUdE9eK-66" value="Good End Game" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-72.5" y="4220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3CZu82u7-v9dNgUdE9eK-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3CZu82u7-v9dNgUdE9eK-72" target="3CZu82u7-v9dNgUdE9eK-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3CZu82u7-v9dNgUdE9eK-72" value="This gearset is unable to make Riko survive the heist meaning whatever gate and whatever option you select in either will get Riko Killed" style="whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+          <mxGeometry x="1006" y="3260" width="310" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="3CZu82u7-v9dNgUdE9eK-73" value="Death End Game" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1101" y="3460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
