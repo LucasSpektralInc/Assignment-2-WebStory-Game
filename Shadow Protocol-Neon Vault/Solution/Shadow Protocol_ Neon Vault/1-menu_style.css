@@ -1,0 +1,63 @@
+body {
+    background-color: #0b0c2a;
+    font-family: 'Roboto Mono', monospace;
+    color: white;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin-top: -10px; /* Made negative to prevent scrolling of the page. This helps keep the desired program uniform */
+    cursor:crosshair
+    }
+
+    h1 {
+        margin-top: 40px;
+        font-size: 50px;
+        color: #ff3131;
+    }
+    h2 {
+        font-size: 40px;
+        color: #39ff14;
+    }
+      /* Title Styling */
+    .title {
+        font-size: 70px;
+        color: #ff3131;
+        margin-bottom: 20px;
+    }
+      
+      /* Under Title Styling */
+    .subtitle {
+        font-size: 60px;
+        color: #39ff14;
+        margin-bottom: 40px;
+    }
+
+      /* Button Container */
+    .button-container {
+        display: flex;
+        flex-direction: column;
+    }
+
+      /* Buttons Stylisation */
+    button {
+        background-color: #1a1d50;
+        color: white;
+        font-size: 20px;
+        padding: 15px 30px;
+        border: none;
+        border-radius: 5px;
+        box-shadow: 0 0 10px rgb(17, 148, 17);
+        cursor: pointer;
+        transition: 0.5s ease-out;
+        margin-top: 30px;
+        width: 250px; /* Set a constant width size for the buttons */
+    }
+
+    /* Hover effects */
+    button:hover {
+        background-color: #2a2d73;
+        color: #e91313;
+        box-shadow: 0 0 15px #e91313;
+    }
